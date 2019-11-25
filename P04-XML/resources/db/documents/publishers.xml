@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<publishers>
+	<publisher id="10">
+		<name>Jhon</name>
+	</publisher>
+		<publisher id="11">
+		<name>Hello</name>
+	</publisher>
+		<publisher id="12">
+		<name>World</name>
+	</publisher>
+</publishers>

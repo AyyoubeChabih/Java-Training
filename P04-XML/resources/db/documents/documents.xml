@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documents>
+	<document id="101">
+		<title>Parseurs XML</title>
+		<date day="26" month="11" year="2018"/>
+		<price>654</price>
+		<publisher ref="10"/>
+		<authors>
+			<author ref="1000"/>
+			<author ref="1001"/>
+		</authors>
+	</document>
+		<document id="102">
+		<title>Ingénierie de l'objet en Java</title>
+		<date day="10" month="8" year="2017"/>
+		<price>765</price>
+		<publisher ref="11"/>
+		<authors>
+			<author ref="1002"/>
+		</authors>
+	</document>
+		<document id="103">
+		<title>Ingénierie du web avec JavaScript</title>
+		<date day="11" month="10" year="1996"/>
+		<price>750</price>
+		<publisher ref="12"/>
+		<authors>
+			<author ref="1002"/>
+			<author ref="1003"/>
+			<author ref="1004"/>
+		</authors>
+	</document>
+</documents>

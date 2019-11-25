@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<table name="livres">
+	<column>
+		<name>ID</name>
+		<type>integer</type>
+	</column>
+	<column>
+		<name>name</name>
+		<type>string</type>
+	</column>
+	<column>
+		<name>genre</name>
+		<type>string</type>
+	</column>
+</table>

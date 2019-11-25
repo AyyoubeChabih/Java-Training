@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<authors>
+	<author id="1000">
+		<name>Albert</name>
+	</author>
+	<author id="1001">
+		<name>Brain</name>
+	</author>
+	<author id="1002">
+		<name>Karl</name>
+	</author>
+	<author id="1003">
+		<name>Neils</name>
+	</author>
+	<author id="1004">
+		<name>Maxwell</name>
+	</author>
+</authors>

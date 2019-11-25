@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<table name="Etudiants">
+	<column>
+		<name>Id</name>
+		<type>integer</type>
+	</column>
+	<column>
+		<name>Nom</name>
+		<type>string</type>
+	</column>
+	<column>
+		<name>Prénom</name>
+		<type>string</type>
+	</column>
+	<column>
+		<name>DateNaissance</name>
+		<type>date</type>
+	</column>
+</table>

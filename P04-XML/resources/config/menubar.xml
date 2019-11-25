@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menubar icons-path="resources/icons/edit/">
+	<menu name="File">
+		<item name="New" icon="new.gif" />
+		<item name="Open" icon="open.gif" />
+		<item name="Save" icon="save.gif"/>
+		<item name="Save as" />
+		<separator/>
+		<item name="Exit" action="org.mql.xml.parsers.swing.ExitAction"/>
+	</menu>
+	<menu name="Edit">
+		<item name="Copy" icon="copy.gif" />
+		<item name="Cut" icon="cut.gif" />
+		<item name="Paste" icon="paste.gif"/>
+	</menu>
+</menubar>
